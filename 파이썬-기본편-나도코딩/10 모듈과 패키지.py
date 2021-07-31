@@ -1,4 +1,3 @@
-'''
 # <모듈>
 import theater_module
 theater_module.price(3) # 3명이서 영화 보러 갔을 때 가격
@@ -106,7 +105,7 @@ print("오늘 날짜는 ", datetime.date.today())
 today = datetime.date.today() # 오늘 날짜 저장
 td = datetime.timedelta(days=88) # 88일 저장
 print("우리가 만난지 100일은", today + td) # 오늘부터 88일 후
-'''
+
 # 퀴즈 10
 import byme
 byme.sign()
